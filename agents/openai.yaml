@@ -1,0 +1,6 @@
+interface:
+  display_name: "Marketing Intelligence HTML Report"
+  short_description: "Dual HTML reports for brand intelligence."
+  default_prompt: "Use $marketing-intelligence-html-report to create a dual-version HTML marketing intelligence weekly report for this brand, market, competitors, platforms, case opportunities, and visual inspiration sources."
+policy:
+  allow_implicit_invocation: true
